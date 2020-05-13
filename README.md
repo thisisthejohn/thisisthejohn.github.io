@@ -1,6 +1,5 @@
 # Personal website
-Source code for personal site. <br />
-***Still in progress***
+Source code for personal site. ***Still in progress***
 
 ## Link
 [Website link](https://thisisthejohn.github.io)
